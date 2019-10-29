@@ -1,0 +1,24 @@
+600 * 600
+radius = 100
+ball_size = 600 / (radius/10) = 60
+space = 10
+
+2 * pi * r = 628...
+
+
+circle has 2*pi radians
+
+i = 6, j = 0
+a = 6
+
+i = 6, j = 1
+a = 0
+
+i = 6, j = 2
+a = 1
+
+balls = 7
+i = 0..6
+j = 0..2
+
+a = i + j > 6 -->
